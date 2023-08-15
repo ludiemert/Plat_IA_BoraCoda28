@@ -4,7 +4,7 @@ Develop the start screen of an artificial intelligence platform
 <strong><h1 align="center">#boraCodar - Challenge 28</h1></strong>
 
 <div align="center">
-  <img alt="Pré-visualização do projeto" src="./assents/preview.png" width="100%">
+  <img alt="Pré-visualização do projeto" src="./assets/preview.png" width="100%">
 </div>
 
 # :red_haired_woman: 💻 Project
