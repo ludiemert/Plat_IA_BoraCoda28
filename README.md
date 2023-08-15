@@ -9,7 +9,7 @@ Develop the start screen of an artificial intelligence platform
 
 # :red_haired_woman: 💻 Project
 📸  Develop the start screen of an artificial intelligence platform. Visit the project online
- 📸 Project online 🔗 [LINK](https://afterbeforeia.netlify.app/)
+ 📸 Project online 🔗 [LINK](https://platia.netlify.app/)
 
 ## 🔖 Layout
 You can view the project layout:
